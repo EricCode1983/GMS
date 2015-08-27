@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Account.Contract.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Account.Contract.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Account.Contract.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Account.Contract.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.pdb

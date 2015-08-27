@@ -1,0 +1,16 @@
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Core.Config.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Core.Config.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\bin\Release\log4net.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Framework.Utility.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Core.Config.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Core.Config.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\bin\Release\log4net.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\bin\Release\GMS.Framework.Utility.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Config\obj\Release\GMS.Core.Config.pdb

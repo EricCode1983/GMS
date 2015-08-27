@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Cms.BLL.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Cms.BLL.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Cms.BLL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Cms.BLL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.pdb

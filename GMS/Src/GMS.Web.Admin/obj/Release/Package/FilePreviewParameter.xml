@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="GMS" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Development\\2015\\source\ code\\GMS\\GMS\\Src\\GMS\.Web\.Admin\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Development\\2015\\source\ code\\GMS\\GMS\\Src\\GMS\.Web\.Admin\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

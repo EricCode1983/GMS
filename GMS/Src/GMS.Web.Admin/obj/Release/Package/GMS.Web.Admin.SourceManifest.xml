@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Web.Admin\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Web.Admin\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Web.Admin\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

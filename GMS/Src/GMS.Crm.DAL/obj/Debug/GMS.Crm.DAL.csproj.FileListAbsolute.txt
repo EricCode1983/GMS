@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Crm.DAL.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Crm.DAL.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Crm.DAL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Crm.DAL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Crm.DAL\obj\Debug\GMS.Crm.DAL.pdb

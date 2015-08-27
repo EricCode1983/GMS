@@ -1,0 +1,12 @@
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\GMS.Framework.Utility.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\Newtonsoft.Json.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\GMS.Framework.Utility.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\bin\Release\Newtonsoft.Json.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Utility\obj\Release\GMS.Framework.Utility.pdb

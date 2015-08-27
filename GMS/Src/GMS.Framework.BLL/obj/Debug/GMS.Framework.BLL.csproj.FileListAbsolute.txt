@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.BLL.XML
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.BLL.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.BLL.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.BLL.XML
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.BLL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.BLL.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb

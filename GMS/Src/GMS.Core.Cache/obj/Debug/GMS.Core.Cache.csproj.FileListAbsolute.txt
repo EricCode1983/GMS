@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Core.Cache.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Core.Cache.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Core.Cache.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Core.Cache.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb

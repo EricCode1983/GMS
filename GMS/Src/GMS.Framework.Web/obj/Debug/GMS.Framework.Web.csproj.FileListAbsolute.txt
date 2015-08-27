@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.Web.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.Web.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.Web.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.Web.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.pdb

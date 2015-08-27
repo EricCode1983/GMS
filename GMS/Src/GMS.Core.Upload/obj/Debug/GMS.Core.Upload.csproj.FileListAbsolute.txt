@@ -1,0 +1,10 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Core.Upload.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Core.Upload.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Core.Upload.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Core.Upload.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb

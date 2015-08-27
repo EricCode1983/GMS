@@ -1,0 +1,12 @@
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.Contract.XML
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.Contract.dll
+D:\Development\2015\source code\GMS\GMS\bin\GMS.Framework.Contract.pdb
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\Development\2015\source code\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.Contract.XML
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.Contract.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\bin\GMS.Framework.Contract.pdb
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\Development\2015\source code\GMS-GOOD\GMS\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
